@@ -16,7 +16,7 @@ I thrive on exploring and building solutions in:
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subhajit009iitr&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajit009iitr&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajit009iitr&hide=verilog&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Subhajit009iitr&theme=radical)
 
