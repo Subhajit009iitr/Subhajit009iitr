@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Subhajit Biswas!  
 
-<!--
-**Subhajit009iitr/Subhajit009iitr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Final Year Undergraduate**  
+I'm currently pursuing Computer Science and Technology at **IIT Roorkee**.  
 
-Here are some ideas to get you started:
+💻 **Passionate Developer**  
+I thrive on exploring and building solutions in:  
+- **Software Development**  
+- **Game Development**  
+- **Web3**  
+- **Networking**  
+- **DevOps**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Feel free to explore my repositories and projects!
+
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subhajit009iitr&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajit009iitr&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Subhajit009iitr&theme=radical)
+
+![](https://komarev.com/ghpvc/?username=Subhajit009iitr&color=blue)
+
